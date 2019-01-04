@@ -1,0 +1,10 @@
+{
+  "name": "theia-sticky-sidebar-for-wordpress",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "*",
+    "gulp-watch": "^4.3.9"
+  }
+}

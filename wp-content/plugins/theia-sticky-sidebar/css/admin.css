@@ -1,0 +1,48 @@
+.theiaStickySidebar_adminTitle {
+  padding-bottom: 12px !important;
+  vertical-align: middle; }
+  .theiaStickySidebar_adminTitle a {
+    display: inline-block;
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+    font-size: 0;
+    line-height: 0; }
+
+.theiaStickySidebar_adminLogo {
+  float: right; }
+
+.theiaStickySidebar_news {
+  width: 100%;
+  height: 462px;
+  border: 1px solid #ccc;
+  background: #fff; }
+
+.settings_page_tss .add-another-sidebar {
+  margin-top: 10px; }
+
+#sidebarsTemplate > table {
+  margin-top: 0; }
+
+.sidebar #sidebarsTemplate {
+  width: 100%; }
+
+.sidebar .tdNumber {
+  border-right: 1px solid #e1e1e1;
+  vertical-align: top;
+  text-align: center;
+  line-height: 61px; }
+
+.sidebar .tdButtons {
+  border-left: 1px solid #e1e1e1;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 24px; }
+  .sidebar .tdButtons button {
+    width: 130px;
+    display: block; }
+    .sidebar .tdButtons button:not(:first-child) {
+      margin-top: 5px; }
+
+.tss-button-with-icon, .tss-button-with-icon * {
+  line-height: inherit;
+  height: auto; }
